@@ -8,5 +8,8 @@
 			"name": "Wider Plan",
 			"email": "development@widerplan.com"
 		}
-	]
+	],
+	"require": {
+		"bobthecow/mustache.php": ">=0.9,<2.0"
+	}
 }
