@@ -2,7 +2,7 @@
 	"name": "widerplan/kostache",
 	"description": "KOstache Fork for Kohana 3.",
 	"homepage": "https://github.com/kiddivouchers/KOstache",
-	"license": "Proprietary",
+	"license": "MIT",
 	"authors": [
 		{
 			"name": "Wider Plan",
